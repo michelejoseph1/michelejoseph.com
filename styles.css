@@ -18,12 +18,15 @@ h1 {
     font-size: 24px;
     color: black;
     margin-bottom: 15px;
+    font-weight: normal; /* added this line to make the title thinner */
 }
 
+
 .emoji {
-    font-size: 24px;
+    font-size: 18px; /* reduced from 24px */
     margin-bottom: 25px;
 }
+
 
 nav ul {
     list-style: none;
